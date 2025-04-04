@@ -1,0 +1,22 @@
+body{
+background-color:white;
+text-align:center;
+}
+
+#header
+{
+  Height:100px;
+  Width:100%;
+  Background-Color:red;
+  text-align:left;
+}
+
+#image-left{
+display:block;
+margin-left:0;
+text-align:left;
+}
+#image-left{
+text-align:left;
+}
+
